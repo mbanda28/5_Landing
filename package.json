@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/async-landing.git"
+    "url": "git+https://github.com/mbanda28/Pages-Landing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/async-landing/issues"
+    "url": "https://github.com/mbanda28/Pages-Landing/issues"
   },
-  "homepage": "https://github.com/platzi/async-landing#readme",
+  "homepage": "https://github.com/mbanda28/Pages-Landing#readme",
   "dependencies": {
     "node": "^20.4.0"
   },
