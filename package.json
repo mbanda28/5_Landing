@@ -19,5 +19,8 @@
   "homepage": "https://github.com/platzi/async-landing#readme",
   "dependencies": {
     "node": "^20.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
